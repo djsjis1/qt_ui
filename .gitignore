@@ -1,0 +1,17 @@
+# 构建产物
+build/
+cmake-build-*/
+out/
+
+# IDE 与编辑器
+.vscode/
+.idea/
+*.user
+
+# 系统文件
+Thumbs.db
+.DS_Store
+
+# 临时与日志
+*.log
+*.tmp
